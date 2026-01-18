@@ -7,7 +7,7 @@ This repository consists of two files.
 
 An ipynb file, which contains the solved python notebook for the following problem
 
-Assignment Part-I -> File name is Linear Regression.ipynb
+Assignment Part-I -> File name is **Linear Regression.ipynb**
 
 A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
 
@@ -44,7 +44,7 @@ Please find the dataset link [here](https://ml-course3-upgrad.s3.amazonaws.com/A
 
 [Data Definition](https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt)
 
-A docx file [assignment Part 2.docx], which contains answers for the following questions
+A pdf file [**assignment Part 2.pdf**], which contains answers for the following questions
 
 Assignment Part-II
 
