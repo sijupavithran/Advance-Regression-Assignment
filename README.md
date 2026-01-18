@@ -44,7 +44,7 @@ Please find the dataset link [here](https://ml-course3-upgrad.s3.amazonaws.com/A
 
 [Data Definition](https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt)
 
-A pdf file [Assignment Regularization Part II.pdf](https://github.com/prasanth23590/Advanced-Regression-Assignment/blob/main/Assignment%20Regularization%20Part%20II.pdf), which contains answers for the following questions
+A pdf file [Assignment Regularization Part II.pdf], which contains answers for the following questions
 
 Assignment Part-II
 
